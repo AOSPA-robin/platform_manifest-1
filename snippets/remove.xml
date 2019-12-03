@@ -58,6 +58,7 @@
   <remove-project name="platform/external/google-api-services-storage" />
   <remove-project name="platform/external/gptfdisk" />
   <remove-project name="platform/external/icu" />
+  <remove-project name="platform/external/ImageMagick" />
   <remove-project name="platform/external/libcups" />
   <remove-project name="platform/external/libcxx" />
   <remove-project name="platform/external/libhevc" />
@@ -186,12 +187,14 @@
   <remove-project name="platform/packages/apps/SettingsIntelligence" />
   <remove-project name="platform/packages/apps/SpareParts" />
   <remove-project name="platform/packages/apps/Terminal" />
+  <remove-project name="platform/packages/apps/UnifiedEmail" />
   <remove-project name="platform/packages/inputmethods/LatinIME" />
   <remove-project name="platform/packages/inputmethods/OpenWnn" />
   <remove-project name="platform/packages/providers/DownloadProvider" />
   <remove-project name="platform/packages/providers/MediaProvider" />
   <remove-project name="platform/packages/providers/TelephonyProvider" />
   <remove-project name="platform/packages/providers/TvProvider" />
+  <remove-project name="platform/packages/services/BuiltInPrintService" />
   <remove-project name="platform/packages/services/Telecomm" />
   <remove-project name="platform/packages/services/Telephony" />
   <remove-project name="platform/prebuilts/build-tools" />
@@ -211,6 +214,7 @@
   <remove-project name="platform/system/extras" />
   <remove-project name="platform/system/netd" />
   <remove-project name="platform/system/nfc" />
+  <remove-project name="platform/system/security" />
   <remove-project name="platform/system/sepolicy" />
   <remove-project name="platform/system/timezone" />
   <remove-project name="platform/system/tools/hidl" />
